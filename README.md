@@ -11,4 +11,5 @@ I am Leo. I am 16 years old and I live in Belgium.
 - 😄 Pronouns: he/him
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
