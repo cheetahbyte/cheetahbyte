@@ -6,7 +6,7 @@
 
 I am Leo. I am 16 years old and I live in Belgium.
 
-- 🔭 I’m currently working on cloud and icebreaker. Two very unusual projects that you should definitely take a look at.
+- 🔭 I’m currently working on icebreaker. A management panel for Docker.
 - 😄 Pronouns: he/him
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
