@@ -48,9 +48,10 @@ I am Leo. I am 16 years old and I live in Belgium.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40px" width="40px"/>
 </div>
-<br>
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
