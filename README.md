@@ -25,7 +25,7 @@ I am Leo. I am 17 years old and I live in Belgium.
 
 ### Frameworks
 <div style="display: flex; flex-direction: row;">
-  <img src="https://cdn.discordapp.com/attachments/857979752991031296/928221250520760330/wire1.png" width"40px" height="40px" style="margin: 15px;">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/942470898286485524/Logo1.svg" width"40px" height="40px" style="margin: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" style="margin: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" style="margin: 15px;"/>
