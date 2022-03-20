@@ -12,6 +12,8 @@ I am Leo. I am 17 years old and I live in Belgium.
 - 😄 Pronouns: he/him
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
+[Website](https://cheetahbyte.github.io)
+
 ### Languages
 <div style="display: flex; flex-direction: row;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
