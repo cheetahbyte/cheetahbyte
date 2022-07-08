@@ -23,6 +23,7 @@ I am Leo. I am 17 years old and I live in Belgium.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
 </div>
 
 ### Frameworks
@@ -34,10 +35,12 @@ I am Leo. I am 17 years old and I live in Belgium.
   <img src="https://cdn.discordapp.com/attachments/857979752991031296/928213769899872326/fastapi.png" width="40px" height="40px" style="margin: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" height="40px"/>
 </div>
 
 ### Tools 'n' Software
 <div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.discordapp.com/attachments/857979752991031296/995017439937056790/molecule.png" height="40px" width="40px"/>
   <img src="https://cdn.discordapp.com/attachments/857979752991031296/928241026555084840/vscode.png" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" width="40px" />
@@ -49,7 +52,6 @@ I am Leo. I am 17 years old and I live in Belgium.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40px" width="40px"/>
-  
 </div>
 
 
