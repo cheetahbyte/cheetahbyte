@@ -6,7 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-I am Leo. I am 17 years old and I live in Belgium.
+I am Leo. I am 18 years old and I live in Belgium.
 
 - 🔭 I’m currently working on Molecule, an independed text editor
 - 😄 Pronouns: he/him
