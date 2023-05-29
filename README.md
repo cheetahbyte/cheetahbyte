@@ -9,7 +9,7 @@
 I am Leo. I am 18 years old and I live in Belgium.
 
 - 🔭 I’m currently working on Nuws, an news app.
-- 😄 Pronouns: he/him
+- 😄 Hobbys: programming, drums
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
 [Website](https://cheetahbyte.github.io)
