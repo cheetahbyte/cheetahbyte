@@ -8,7 +8,7 @@
 
 I am Leo. I am 18 years old and I live in Belgium.
 
-- 🔭 I’m currently working on Nuws, an news app.
+- 🔭 I’m currently working on Miauw, a social media app.
 - 😄 Hobbys: programming, drums
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
