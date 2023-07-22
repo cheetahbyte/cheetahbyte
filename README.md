@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/HolyCat125)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) 
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+![Codetime](https://img.shields.io/endpoint?url=https://wakapi.cheetahbyte.dev/api/compat/shields/v1/cheetahbyte/interval:30_days&label=Last%2030d)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
