@@ -55,6 +55,8 @@ I am Leo. I am 18 years old and I live in Belgium.
 </div>
 
 
+[![Stats Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=cheetahbyte&api_domain=wakapi.cheetahbyte.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)]
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetahbyte&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
