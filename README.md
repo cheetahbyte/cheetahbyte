@@ -3,8 +3,6 @@
 [![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/HolyCat125)
 ![Codetime](https://img.shields.io/endpoint?url=https://wakapi.cheetahbyte.dev/api/compat/shields/v1/cheetahbyte/interval:30_days&label=Last%2030d)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-
 I am Leo. I am 18 years old and I live in Belgium.
 
 - 🔭 I’m currently working on Miauw, a social media app.
