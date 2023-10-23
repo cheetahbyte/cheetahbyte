@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/HolyCat125)
+[![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/xcodecat)
 
-I am Leo. I am 18 years old and I live in Germany. 
+I am Leo. I am 18 years old and I study Computer Science in Germany. 
 
 - 🔭 I’m currently working on Icebreaker, an awesome docker managment ui.
 - 😄 Hobbys: programming, drums
