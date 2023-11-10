@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/xcodecat)
+<!--[![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/xcodecat)-->
 
 I am Leo. I am 18 years old and I study Computer Science in Germany. 
 
