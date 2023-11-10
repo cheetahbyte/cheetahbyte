@@ -4,7 +4,7 @@
 
 I am Leo. I am 18 years old and I study Computer Science in Germany. 
 
-- 🔭 I’m currently working on Icebreaker, an awesome docker managment ui.
+- 🔭 I’m currently working on Seahorse, another cloud just like onedrive and nextcloud.
 - 😄 Hobbys: programming, drums
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
