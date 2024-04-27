@@ -4,7 +4,7 @@
 
 I am Leo. I am 19 years old and I study Computer Science in Germany. 
 
-- 🔭 I’m currently working on Seahorse, another cloud just like onedrive and nextcloud.
+- 🔭 I’m currently working on keinbudget.
 - 😄 Hobbys: programming, drums
 - ⚡ I like to overload myself with a ton of side projects that don't get done. Be warned.
 
