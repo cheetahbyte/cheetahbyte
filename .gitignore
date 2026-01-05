@@ -1,21 +1,13 @@
-build
-dist / media
 node_modules
 .DS_Store
+dist
+dist-ssr
+*.local
+count.txt
 .env
-.next
-.vercel
-
-# Payload default media upload directory
-public/media/
-
-public/robots.txt
-public/sitemap*.xml
-
-
-# Playwright
-node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+todos.json
