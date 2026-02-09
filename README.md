@@ -2,7 +2,7 @@
 
 <!--[![shields.io](https://img.shields.io/badge/in%20love%20with-laura-critical)](https://github.com/xcodecat)-->
 
-I am Leo. I am 20 years old and I study Computer Science in Germany. 
+I am Leo. I am 21 years old and I study Computer Science in Germany. 
 
 - 🔭 I’m currently working on [centra](https://github.com/cheetahbyte/centra).
 - 😄 Hobbys: programming, drums
